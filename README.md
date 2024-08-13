@@ -1,18 +1,5 @@
 # Chat Message Broker
   The Chat Message Broker is a distributed server application that manages communication between clients. It includes both server (broker) and client applications.
-
-# Installation
-  Clone the repository to your machine.
-  Navigate to the project directory and run go mod download to install dependencies.
-  Broker
-  Change to the broker directory, which is the main directory for the broker application.
-  Review the config.yaml file to customize the broker's configuration.
-  Build
-  Ensure you have a working Go environment setup.
-
-# Run make in the project root to build the application.
-  Start the broker_app and client_app using the built binaries.
-  Running the Applications
 # Broker
   The broker application accepts the following flags:
 
